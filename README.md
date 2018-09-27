@@ -1,9 +1,10 @@
 # Function-in-R-Graph-
 This Repository is uploaded for my college task
+
 Made by Yudhistira Adinugraha Htabarat (17523180)
 
 
-class : Matematika Lanjut 
+class : Matematika Lanjut | 
 by :Pak Ahmad Fathan Hidayatullah, S.T.
 
 
