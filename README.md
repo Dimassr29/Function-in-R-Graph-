@@ -15,5 +15,5 @@ File 1 : Function.r
 = this file contain code to make a function in R language
 
 
-File 2 : Function - Graph
+File 2 : Function - Graph.r
 = This file contain code to make graph from a function in R language
